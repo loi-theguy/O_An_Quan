@@ -1,4 +1,4 @@
-# O_An_Quan
+# Ô Ăn Quan
 Trò chơi ô ăn quan xây dựng trên java
 
 Developed By/Được xây dựng bởi:
